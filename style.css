@@ -1,0 +1,160 @@
+#inp{
+    margin-left: 25%;
+    margin-top: 3%;
+}
+#ip{
+    padding: 7px;
+    width: 250px;
+    /* border-radius: 1px; */
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 500px;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+}
+#ip:hover{
+    width: 255px;
+    margin-left: -2.5px;
+    margin-top: 10px;
+}
+#select{
+    margin-left: 54%;
+    margin-top: -116px;
+    border-radius: 6px;
+}
+#sel{
+    padding: 8px;
+    width: 250px;
+    font-style: italic;
+    border-radius: 10px;
+    font-size: 18px;
+    border: none;
+}
+#sel:hover{
+    width: 255px;
+    margin-left: -2.5px;
+}
+#rs{
+    padding: 7.5px;
+    width: 250px;
+    font-weight: 500px;
+    border-radius: 10px;
+    font-style: italic;
+    font-size: 20px;
+    text-align: center;
+    border: none;
+}
+#bt{
+    padding: 7px;
+    width: 100px;
+    /* border-radius: 1px; */
+    font-size: 18px;
+    border-radius: 8px;
+    border: none;
+    font-style: italic;
+}
+#bt:hover{
+    width: 105px;
+    margin-left: -2.5px;
+    background-color:rgb(177, 214, 236);
+    font-size:18px;
+    margin-top:1%;
+    margin-bottom: -1%;
+}
+#res{
+    margin-left: 41%;
+    margin-top: 6%;
+}
+#rs:hover{
+    width: 254px;
+    margin-left:-0.35%;
+}
+#but{
+    margin-top: 3%;
+    width: 15%;
+    margin-left: 59%;
+}
+#body{
+    background-image:url('https://wallpapercave.com/wp/wp6946106.jpg');
+    background-size:cover;
+} 
+#h{
+    font-style: italic;
+    font-size: 50px;
+    color: blue;
+    margin-right: 10%;
+}
+#hr{
+    font-style: italic;
+    font-size: 50px;
+    color: red;
+    margin-right: 10%;
+}
+#hd{
+    margin-left: 40%;
+    margin-top: 2%;
+}
+#hp{
+    margin-left: 33%;
+    margin-top: 5%;
+}
+#p1{
+    font-style: italic;
+    font-size: 30px;
+    color: rgb(247, 247, 247);
+}
+#par1{
+    margin-left: 45.1%;
+    margin-top: -59px;
+}
+#p2{
+    font-style: italic;
+    font-size: 30px;
+    color: rgb(247, 247, 247);
+}
+#par2{
+    margin-left: 74.3%;
+    margin-top: -175px;
+}
+#cel{
+    margin-left: 31.7%;
+    margin-top: -2%;
+}
+#far{
+    margin-left: 45%;
+    margin-top: 1%;
+}
+#cel1{
+    font-style: italic;
+    font-size: 30px;
+    color: rgb(247, 247, 247);
+}
+#far1{
+    font-style: italic;
+    font-size: 30px;
+    color: rgb(247, 247, 247);
+    margin-top: 1%;
+}
+#rt{
+    padding: 7px;
+    
+    /* border-radius: 1px; */
+    font-size: 18px;
+    border-radius: 8px;
+    border: none;
+    font-style: italic;
+    width: 100px; 
+}
+#rst{
+    margin-left: 35%;
+    margin-top: -35px;
+    width: 100px;
+}
+#rt:hover{
+    width: 105px;
+    margin-left: -2.5px;
+    background-color:rgb(177, 214, 236);
+    font-size:18px;
+    margin-top:1%;
+}
