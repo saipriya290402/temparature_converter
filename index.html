@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Temperature Converter </title>
+        <link rel="stylesheet" href="./style.css" type="text/css">
+    </head>
+    <body id="body">
+        <div id="hp">
+            <h id="hr">Temperature Converter</h>
+        </div>
+        <div id="hd">
+        <h id="h">°C to °F</h>
+    </div>
+        <form id="form">
+            <div id="inp">
+        <input id="ip" name="data" type="type" placeholder="Enter Value" required>
+    </div>
+    <div id="cel"><p id="cel1">Celsius</p></div>
+    <div id="select">
+        <select id="sel" name="select" type="button" value="type">
+            <option value="celsiusToFahrenheit">Celsius to Fahrenheit</option>
+            <option value="celsiusToKelvin">Celsius to Kelvin</option>
+            <option value="fahrenheitToCelsius">Fahrenheit to Celsius</option>
+            <option value="fahrenheitToKelvin">Fahrenheit to Kelvin</option>
+            <option value="kelvinToCelsius">Kelvin to Celsius</option>
+            <option value="kelvinToFahrenheit">Kelvin to Fahrenheit</option>
+        </select>
+       </div>
+       <div id="res" >
+        <input id="rs" name="res" type="text" placeholder="Result" >
+       </div>
+       <div id="far"><p id="far1">Fahrenheit</p></div>
+       <div id="but">
+        <input id="bt" name="submit" type="submit" value="Convert">
+       </div>
+       <div id="rst">
+        <input id="rt" name="reset" type="reset" value="Reset">
+       </div>
+        </form>
+        <script src="./index.js"></script>
+    </body>
+</html>
